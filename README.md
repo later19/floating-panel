@@ -24,8 +24,8 @@ npm run build
 npm run lint
 ```
 
-![alt text](image.png =s300)
-![alt text](image-1.png =s300)
+![alt text](image.png)
+![alt text](image-1.png)
 
 ### Customize configuration
 
